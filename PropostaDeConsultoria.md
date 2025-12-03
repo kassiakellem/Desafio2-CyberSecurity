@@ -1,4 +1,5 @@
 
+<img width="2812" height="1224" alt="capa" src="https://github.com/user-attachments/assets/0dea3926-5171-48b4-ad3e-d24894212ba2" />
 
 ## **Cliente:** LojaZeta
 
@@ -10,7 +11,6 @@
 
 ## *Este documento é estritamente confidencial e contém informações proprietárias.*
 
-# 
 
 # **1\. Sumário Executivo**  
 
